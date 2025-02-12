@@ -10,7 +10,7 @@ In dataset each record contains:
 
 ## Selected Models
 
-I experimented with two models for multi-label classification:
+The project uses two models for multi-label classification to compare the results:
 1. Support Vector Classifier (SVC) with Binary Relevance
 SVC is a machine learning algorithm based on Support Vector Machines (SVM), typically used for binary classification. In this project, SVC is combined with Binary Relevance (BR), which decomposes the problem into multiple independent binary classifiers for each genre label.
 
